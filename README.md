@@ -23,10 +23,12 @@ A continuación encontrarás los requisitos mínimos que necesitamos para dar po
 - [ ] Los valores de **_Markertcap_**, **_24h Volume_** deben tener formato numérico en Tableau K para unidades de miles, M para millones y B para miles de millones
 
 ### Recursos
+---------
 
 - En la carpeta `public/tokens` se encuentra los logos de los tokens con extension `.svg`.
 
 ### Requisitos de Stack
+---------
 
 - React / React Hooks
 - Next

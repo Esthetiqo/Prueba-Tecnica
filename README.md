@@ -70,4 +70,4 @@ Envía un pull request al repositorio y asigne **Sanji** como reviever. La rama 
 
 ¡Feliz codificación! 🙌
 
-![Alt Text](https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif){width=200px}
+<img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="100">

@@ -2,9 +2,9 @@
 
 ## 👋 ¡Bienvenido! ¿Estás listo para convertirte en un Front End de Esthetiqo?
 
-El componente "Crypto Market List" en React permite visualizar de manera dinámica y actualizada los diferentes mercados de criptomonedas, como Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), entre otros. Este componente listara los datos de los mercados cripto, mostrando información relevante como el símbolo, nombre, precio actual y cambio en las últimas 24 horas. Con la posibilidad de personalización y mejoras adicionales, este componente ofrece una base sólida para integrar y visualizar datos cripto de forma efectiva en aplicaciones web. 
+El componente **Crypto Market List** en React/Next permite visualizar de manera dinámica y actualizada los diferentes mercados de criptomonedas, como Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), entre otros. Este componente listara los datos de los mercados cripto, mostrando información relevante como el símbolo, nombre, precio actual y cambio en las últimas 24 horas. Con la posibilidad de personalización y mejoras adicionales, este componente ofrece una base sólida para integrar y visualizar datos cripto de forma efectiva en aplicaciones web. 
 
-> 👉 El desafío: crear un componente de visualización responsivo para los datos proporcionados y agregarlo al sitio web Rule of Thumb™️, cumpliendo con las especificaciones de diseño.
+> 👉 El desafío: crear un componente de visualización responsivo para los datos proporcionados, cumpliendo con las especificaciones de diseño.
 
 
 ### Criterios de aceptación

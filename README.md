@@ -2,8 +2,7 @@
 
 ## 👋 ¡Bienvenido! ¿Estás listo para convertirte en un Front End de Esthetiqo?
 
-La aplicación de nuestro cliente Rule of Thumb™️ rastrea el sentimiento de sus usuarios sobre personas controvertidas y de moda de diferentes campos, incluida la política, los negocios, los medios y el entretenimiento, etc. El sitio web tiene el siguiente requisito: deben presentar a sus usuarios una manera fácil de para compartir su opinión sobre cada celebridad presentada, mediante votos (pulgar hacia arriba y hacia abajo) y mostrar los resultados al usuario mientras la encuesta está abierta. Estas funciones deberían estar disponibles para todos los usuarios, independientemente de desde dónde accedan al sitio web, ya sea un teléfono inteligente, una tableta o una computadora de escritorio.
-
+El componente "Crypto Market List" en React permite visualizar de manera dinámica y actualizada los diferentes mercados de criptomonedas, como Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), entre otros. Este componente listara los datos de los mercados cripto, mostrando información relevante como el símbolo, nombre, precio actual y cambio en las últimas 24 horas. Con la posibilidad de personalización y mejoras adicionales, este componente ofrece una base sólida para integrar y visualizar datos cripto de forma efectiva en aplicaciones web. 
 
 > 👉 El desafío: crear un componente de visualización responsivo para los datos proporcionados y agregarlo al sitio web Rule of Thumb™️, cumpliendo con las especificaciones de diseño.
 

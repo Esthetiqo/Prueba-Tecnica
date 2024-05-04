@@ -1,0 +1,149 @@
+[
+  {
+    "symbol": "BTC",
+    "last_price": 683445,
+    "24h_change": -0.05,
+    "market_cap": 1000000000,
+    "24h_volume": 50000000
+  },
+  {
+    "symbol": "ETH",
+    "last_price": 4000,
+    "24h_change": 0.02,
+    "market_cap": 500000000,
+    "24h_volume": 20000000
+  },
+  {
+    "symbol": "ENA",
+    "last_price": 1,
+    "24h_change": 0.1,
+    "market_cap": 20000000,
+    "24h_volume": 1000000
+  },
+  {
+    "symbol": "LTC",
+    "last_price": 200,
+    "24h_change": -0.01,
+    "market_cap": 10000000,
+    "24h_volume": 500000
+  },
+  {
+    "symbol": "SOL",
+    "last_price": 2,
+    "24h_change": 0.05,
+    "market_cap": 5000000,
+    "24h_volume": 250000
+  },
+  {
+    "symbol": "USDC",
+    "last_price": 683445,
+    "24h_change": -0.05,
+    "market_cap": 1000000000,
+    "24h_volume": 50000000
+  },
+  {
+    "symbol": "LINK",
+    "last_price": 4000,
+    "24h_change": 0.02,
+    "market_cap": 500000000,
+    "24h_volume": 20000000
+  },
+  {
+    "symbol": "ARB",
+    "last_price": 1,
+    "24h_change": 0.1,
+    "market_cap": 20000000,
+    "24h_volume": 1000000
+  },
+  {
+    "symbol": "HIGH",
+    "last_price": 200,
+    "24h_change": -0.01,
+    "market_cap": 6750000,
+    "24h_volume": 76000
+  },
+  {
+    "symbol": "SUSHI",
+    "last_price": 2,
+    "24h_change": 0.05,
+    "market_cap": 4450000,
+    "24h_volume": 6500000
+  },
+  {
+    "symbol": "SUSHI",
+    "last_price": 2,
+    "24h_change": -0.02,
+    "market_cap": 5000000,
+    "24h_volume": 500
+  }
+  {
+    "symbol": "XRP",
+    "last_price": 1.5,
+    "24h_change": 0.03,
+    "market_cap": 800000000,
+    "24h_volume": 30000000
+  },
+  {
+    "symbol": "ADA",
+    "last_price": 1.2,
+    "24h_change": -0.01,
+    "market_cap": 600000000,
+    "24h_volume": 15000000
+  },
+  {
+    "symbol": "DOT",
+    "last_price": 30,
+    "24h_change": 0.05,
+    "market_cap": 400000000,
+    "24h_volume": 10000000
+  },
+  {
+    "symbol": "BNB",
+    "last_price": 400,
+    "24h_change": 0.02,
+    "market_cap": 300000000,
+    "24h_volume": 8000000
+  },
+  {
+    "symbol": "DOGE",
+    "last_price": 0.3,
+    "24h_change": -0.01,
+    "market_cap": 200000000,
+    "24h_volume": 5000000
+  },
+  {
+    "symbol": "XLM",
+    "last_price": 0.4,
+    "24h_change": 0.01,
+    "market_cap": 150000000,
+    "24h_volume": 4000000
+  },
+  {
+    "symbol": "UNI",
+    "last_price": 25,
+    "24h_change": -0.02,
+    "market_cap": 350000000,
+    "24h_volume": 9000000
+  },
+  {
+    "symbol": "AVAX",
+    "last_price": 50,
+    "24h_change": 0.03,
+    "market_cap": 250000000,
+    "24h_volume": 7000000
+  },
+  {
+    "symbol": "MATIC",
+    "last_price": 1.2,
+    "24h_change": -0.01,
+    "market_cap": 180000000,
+    "24h_volume": 6000000
+  },
+  {
+    "symbol": "ATOM",
+    "last_price": 15,
+    "24h_change": 0.02,
+    "market_cap": 220000000,
+    "24h_volume": 7500000
+  }
+]

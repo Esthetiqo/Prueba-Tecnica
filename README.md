@@ -15,12 +15,11 @@ A continuación encontrarás los requisitos mínimos que necesitamos para dar po
     - [Figma](https://www.figma.com/file/RA8tAkmpGEjrdHLSBBhYbU/Intentx-Perpetuals-V2?node-id=304-22777&mode=dev)
 
 - [ ] El componente interactivo debe listar todos los Markets (Consulte `markets/data.json` como referencia).
-- [ ] Debe exitir un `button` que me permita agregar mercados como favorito (Usar el `icon-start-fill` para indicar los que esten marcados como favoritos)
+- [ ] Debe exitir un `icono de estrella` que permita agregar mercados como favorito (Debe agregar el icono de estrella lleno para indicar que el mercado esta en la lista de favoritos)
   > 👉 Los mercado favoritos deben ser capaces de persistir, para esto usar el `localstorage` o en su defecto alguna libreria de manejo de estado
 - [ ] La lista debe ser capaz de filtrarse por **_Symbol_** usando la barra de busqueda, en caso de que la barra de busqueda este vacia mostrar la lista original sin filtrado
-- [ ] La lista debe ser capaz de filtrarse por **_The last Price_** , **_24h Change_**, **_Markertcap_**, **_24h Volume_** donde la fecha hacia abajo indique el orden ascendente y la fecha hacia abajo el orden descendente
-- [ ] Los valores de **_The last Price_** deben ser rojos cuando el valor sea menor a 2.00 y verdes para cuando sean mayores a 2.00
-- [ ] Los valores de **_24h Change_** deben ser rojos para valores negativos y verde para vaores positivos 3%
+- [ ] La lista debe ser capaz de ordenarse por **_The last Price_** , **_24h Change_**, **_Markertcap_**, **_24h Volume_** donde la flecha hacia arriba indique el orden ascendente y la fecha hacia abajo el orden descendente
+- [ ] Los valores de **_The last Price_** y **_24h Change_** deben ser rojos para valores negativos y verde para valores positivos
 - [ ] Los valores de **_Markertcap_**, **_24h Volume_** deben tener formato numérico en Tableau K para unidades de miles, M para millones y B para miles de millones
 
 ### Recursos

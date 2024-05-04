@@ -1,3 +1,5 @@
+![Alt Text](https://i.ibb.co/RYRgghZ/Frame-1.png)
+
 ## 👋 ¡Bienvenido! ¿Estás listo para convertirte en un Front End de Esthetiqo?
 
 La aplicación de nuestro cliente Rule of Thumb™️ rastrea el sentimiento de sus usuarios sobre personas controvertidas y de moda de diferentes campos, incluida la política, los negocios, los medios y el entretenimiento, etc. El sitio web tiene el siguiente requisito: deben presentar a sus usuarios una manera fácil de para compartir su opinión sobre cada celebridad presentada, mediante votos (pulgar hacia arriba y hacia abajo) y mostrar los resultados al usuario mientras la encuesta está abierta. Estas funciones deberían estar disponibles para todos los usuarios, independientemente de desde dónde accedan al sitio web, ya sea un teléfono inteligente, una tableta o una computadora de escritorio.
@@ -68,4 +70,4 @@ Envía un pull request al repositorio y asigne **Sanji** como reviever. La rama 
 
 ¡Feliz codificación! 🙌
 
-![alt text](https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif)
+![Alt Text](https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif)

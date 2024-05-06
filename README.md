@@ -25,7 +25,7 @@ A continuación encontrarás los requisitos mínimos que necesitamos para dar po
 ### Recursos
 ---------
 
-- En la carpeta `public/tokens` se encuentra los logos de los tokens con extension `.svg`.
+- En la carpeta `public/tokens` se encuentra los logos de los tokens con extensión `.svg`.
 
 ### Requisitos de Stack
 ---------
@@ -44,8 +44,8 @@ A continuación encontrarás los requisitos mínimos que necesitamos para dar po
 ¡Uf! Eran muchos requisitos, ¿no? 😬
 
 A continuación se ofrecen algunos consejos para que este desafío sea realmente agradable:
-- **Organizacion** Se tomara en cuenta la organizacion y estructura del proyecto
-- **Buenas practicas** Verificaremos el uso de buenas practicas Y logica de los componentes
+- **Organización** Se tomara en cuenta la organización y estructura del proyecto
+- **Buenas practicas** Verificaremos el uso de buenas practicas Y lógica de los componentes
 - **Utilice** **React** junto con el framework **Next**
 - **Limpia tu codigo**. Archivos inútiles, pruebas vacías, código comentado y todo eso obstaculiza nuestra capacidad de ver su código real. Por lo tanto, si está utilizando CLI, generadores o código repetitivo de cualquier tipo, sea amable y limpie todo lo que no agregue valor al resultado.
 - **Valoramos su tiempo**. No hay límite de tiempo para este desafío (bueno, hablando razonablemente, no esperamos que le tome más de 6 horas ) y siempre que nos entrege un código funcional que cumpla con los criterios descritos anteriormente, estaremos contentos. Sin embargo, no lo pienses demasiado, encuentra una manera fácil de lograr un buen resultado y apégate a ella.

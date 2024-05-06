@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/84pGS5Z/Frame-1.png" width="200" height="200"}>
+<img src="https://i.ibb.co/84pGS5Z/Frame-1.png" width="200" height="200">
 
 ## 👋 ¡Bienvenido! ¿Estás listo para convertirte en un Front End de Esthetiqo?
 

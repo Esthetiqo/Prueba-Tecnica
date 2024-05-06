@@ -1,4 +1,4 @@
-![Alt Text](https://i.ibb.co/RYRgghZ/Frame-1.png)
+<img src="https://i.ibb.co/84pGS5Z/Frame-1.png" width="300" height="300">
 
 ## 👋 ¡Bienvenido! ¿Estás listo para convertirte en un Front End de Esthetiqo?
 

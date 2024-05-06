@@ -48,7 +48,7 @@ A continuación se ofrecen algunos consejos para que este desafío sea realmente
 - **Buenas practicas** Verificaremos el uso de buenas practicas Y logica de los componentes
 - **Utilice** **React** junto con el framework **Next**
 - **Limpia tu codigo**. Archivos inútiles, pruebas vacías, código comentado y todo eso obstaculiza nuestra capacidad de ver su código real. Por lo tanto, si está utilizando CLI, generadores o código repetitivo de cualquier tipo, sea amable y limpie todo lo que no agregue valor al resultado.
-- **Valoramos su tiempo**. No hay límite de tiempo para este desafío (bueno, hablando razonablemente, no esperamos que le tome más de 8 horas ) y siempre que nos entrege un código funcional que cumpla con los criterios descritos anteriormente, estaremos contentos. Sin embargo, no lo pienses demasiado, encuentra una manera fácil de lograr un buen resultado y apégate a ella.
+- **Valoramos su tiempo**. No hay límite de tiempo para este desafío (bueno, hablando razonablemente, no esperamos que le tome más de 6 horas ) y siempre que nos entrege un código funcional que cumpla con los criterios descritos anteriormente, estaremos contentos. Sin embargo, no lo pienses demasiado, encuentra una manera fácil de lograr un buen resultado y apégate a ella.
 - **Nada de copypaste**, por favor. Puedes encontrar cualquier cosa en GitHub y StackOverflow hoy en día, ¿no? Bueno, nosotros también podemos . No lo culparemos si olvidó cómo utilizar la API LocalStorage. Simplemente no copie y pegue grandes fragmentos de código.
 
 ### Ve más allá 🚀
@@ -61,12 +61,12 @@ Si cree que cubrir los criterios básicos de aceptación no es suficiente para m
 - Coloque en containers de docker todo el sitio web y haga que se ejecute sin problemas en cualquier máquina.
 - Cree configuraciones para diferentes entornos `.env` y optimice y verifique su código para uso en producción `build`.
 
-> ⚠️El cielo es el límite, pero también lo es tu tiempo. Recuerda que cualquiera de estos es completamente opcional . Queremos que tu código nos sorprenda. Sea razonable y apéguese a lo que pueda lograr en 8 horas como máximo
+> ⚠️El cielo es el límite, pero también lo es tu tiempo. Recuerda que cualquiera de estos es completamente opcional . Queremos que tu código nos sorprenda. Sea razonable y apéguese a lo que pueda lograr en 6 horas como máximo
 
 ### ¿Desafío completado? 
 ---------
 
-Envía un pull request al repositorio y asigne **Sanji** como reviever. La rama `master` debe contener el resultado completo
+Envía un pull request al repositorio. La rama `feature/market-selector` debe contener el resultado completo
 
 ¡Feliz codificación! 🙌
 

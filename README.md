@@ -12,7 +12,7 @@ A continuación encontrarás los requisitos mínimos que necesitamos para dar po
 - [ ] Debe crear una rama a partir de `master` llamada `feature/market-selector`
 - [ ] El componente interactivo debe cumplir con los criterios de diseño, que puede encontrar a continuación, este componente incluye una lista de mercados cripto los cuales contiene **_Symbol_**, **_The last Price_**, **_24h Change_**, **_Markertcap_**, **_24h Volume_**
 
-    - [Figma](https://www.figma.com/design/qBTOG40GFVdtkUvLjPj9si/Test-Component?node-id=1-1309&t=awusQXAeJ0QXIRee-0)
+    - [Figma](https://www.figma.com/design/qBTOG40GFVdtkUvLjPj9si/Test-Component?node-id=0-1&t=eT0ZVJkj7j6ItWBS-0)
 
 - [ ] El componente interactivo debe listar todos los Markets (Consulte `markets/data.json` como referencia).
 - [ ] Debe exitir un `icono de estrella` que permita agregar mercados como favorito (Debe agregar el icono de estrella lleno para indicar que el mercado esta en la lista de favoritos)
